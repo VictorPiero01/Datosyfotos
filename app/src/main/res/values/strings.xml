@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">fotoydatos</string>
+
+    <string name="tv_nombre">NOMBRE:</string>
+    <string name="tv_apellido">APELLIDO:</string>
+    <string name="tv_dni">DNI:</string>
+    <string name="tv_edad">EDAD:</string>
+    <string name="tv_direccion">DIRECCION:</string>
+
+    <string name="tv_titulo">FORMULARIO</string>
+
+    <string name="pt_nombre">Victor Piero</string>
+    <string name="pt_apellido">Limache</string>
+    <string name="pt_dni">70916142</string>
+    <string name="pt_edad">20</string>
+    <string name="pt_direccion">Tacna</string>
+
+    <string name="btn_guardar">GUARDAR</string>
+    <string name="btn_volver">VOLVER</string>
+    <string name="btn_capturar"> CAPTURAR FOTO</string>
+</resources>
